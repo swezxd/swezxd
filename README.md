@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kacper
+# 👋 Hi, I'm Swez
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Always+learning+new+technologies;Welcome+to+my+GitHub!" />
 
